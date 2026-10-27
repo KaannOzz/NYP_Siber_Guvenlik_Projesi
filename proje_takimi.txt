@@ -1,7 +1,0 @@
-PROJE TAKIMI
------------------------
-1. Kaan Öz - Öğrenci No: 1250505048
-
-Görev: Proje Yöneticisi, Mimari Tasarım, Core Modüller, Konsol Arayüzü, Birim Testleri, Dokümantasyon ve Sunum 
-
-(Not: Grup kurulamadığı için projede istenen tüm tasarım, kodlama ve test görevleri tek kişi tarafından üstlenilmiş ve başarıyla tamamlanmıştır.)
